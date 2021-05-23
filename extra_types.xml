@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file should be copied into your DB folder -->
+<types>
+   <type name="Winchester70_Green">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Winchester70_Black">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="SKS_Black">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="CZ527_Black">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="CZ527_Camo">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="B95_Black">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AKM_Drum75Rnd_Green">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AKM_Drum75Rnd_Black">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AK74_30Rnd_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AK74_30Rnd_Black">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AKM_Palm30Rnd_Black">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AKM_Palm30Rnd_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AK101_30Rnd_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_AK101_30Rnd_Black">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_CMAG_40Rnd_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_CMAG_30Rnd_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_CMAG_40Rnd_Black">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+   <type name="Mag_CMAG_30Rnd_Black">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="store" />
+      <usage name="Store" />
+   </type>
+</types>

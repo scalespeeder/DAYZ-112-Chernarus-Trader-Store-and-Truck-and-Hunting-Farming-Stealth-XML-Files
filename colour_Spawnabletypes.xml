@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file should be copied into your DB folder -->
+<spawnabletypes>
+   <damage min="0.1" max="0.1" />
+   <type name="B95_Black">
+      <attachments chance="1">
+         <item name="HuntingOptic" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CZ527_Black">
+      <attachments chance="1">
+         <item name="HuntingOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="1">
+         <item name="Mag_CZ527_5rnd" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CZ527_Camo">
+      <attachments chance="1">
+         <item name="HuntingOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="1">
+         <item name="Mag_CZ527_5rnd" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="SKS_Black">
+      <attachments chance="1.00">
+         <item name="PUScopeOptic" chance="1" />
+      </attachments>
+   </type>
+   <type name="Winchester70_Black">
+      <attachments chance="1">
+         <item name="HuntingOptic" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="Winchester70_Green">
+      <attachments chance="1">
+         <item name="HuntingOptic" chance="1.00" />
+      </attachments>
+   </type>
+</spawnabletypes>
